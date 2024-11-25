@@ -59,7 +59,7 @@ def compress_image(input_image_path, output_image_path, max_size_kb):
     print(f"Image saved as {output_image_path} with size {os.path.getsize(output_image_path) / 1024:.2f} KB")
 
 # Example usage
-compress_image(r"C:\Users\User\Downloads\BrettPP.jpg", r"C:\Users\User\Downloads\BrettPPoutput.jpg", 250)
+compress_image(r"C:\Users\User\Downloads\PP.jpg", r"C:\Users\User\Downloads\PPOutput.jpg", 250)
 ```
 
 ## Features
