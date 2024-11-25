@@ -17,7 +17,7 @@ To use this script, you need to have Python installed on your machine along with
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/image-compression-script.git
+   git clone https://github.com/KxngQreed/image-compression-script.git
    cd image-compression-script
    ```
 
